@@ -1,4 +1,4 @@
-module github-com/dihedron/go-zap-utils
+module github.com/dihedron/go-zap-utils
 
 go 1.16
 

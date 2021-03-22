@@ -7,5 +7,5 @@ import (
 
 func main() {
 	defer zap.L().Sync()
-	zap.L().Debug("application staring...")
+	zap.L().Debug("application starting...")
 }
